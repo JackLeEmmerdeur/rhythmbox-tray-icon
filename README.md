@@ -1,6 +1,13 @@
 Rhythmbox tray icon plugin
 ==========================
 
+
+<em>Changes in this fork:</em>
+
+* <em>Display Song-Info in tray-icon</em>
+* <em>Clicking on title brings rhythmbox to front</em>
+
+
 A tray icon to control basic Rhythmbox features. Requires Rhythmbox 2.9+.  Was working in Ubuntu 12.04, but is no longer maintained due to Ubuntu Panel restrictions.
 
 You can rate the track, play/pause, go previous, go next, or quit.
