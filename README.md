@@ -7,6 +7,7 @@ Rhythmbox tray icon plugin
 * <em>Display Song-Info in tray-icon</em>
 * <em>Clicking on title brings rhythmbox to front</em>
 
+![Imgur](https://i.imgur.com/ku4X556.png)
 
 A tray icon to control basic Rhythmbox features. Requires Rhythmbox 2.9+.  Was working in Ubuntu 12.04, but is no longer maintained due to Ubuntu Panel restrictions.
 
